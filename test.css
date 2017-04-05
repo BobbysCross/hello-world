@@ -1,0 +1,15 @@
+body{
+  background:#fff2cc;
+  font:sans-serif;
+}
+div{
+  background:#fff9e6;
+  height:50vh;
+  width:50vw;
+  text-align:center;
+  margin:20%;
+}
+p{
+  font-size:45px;
+  color:#664e00;
+}
