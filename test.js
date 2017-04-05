@@ -1,3 +1,8 @@
 window.onload= function(){
-alert('HI!');
+  var d=document.getElementById('demo');
+  
+  d.addEventListener('click', function(){
+    alert('HI!');
+  });
+  
 };
